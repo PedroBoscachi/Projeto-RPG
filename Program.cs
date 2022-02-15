@@ -1,5 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 using Projeto_RPG.src.Entities;
+using Projeto_RPG.src.Game;
+
 
 namespace projeto
 {
@@ -7,9 +10,9 @@ namespace projeto
     {
         static void Main(string[] args)
         {
-            Character arus = new Character("Arus", 23, "Knight");
-            
-            Console.WriteLine(arus);
+            Match match = new Match();
+            match.ShowBoard();
+
         }
     }
 }
