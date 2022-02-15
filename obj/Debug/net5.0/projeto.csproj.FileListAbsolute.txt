@@ -1,0 +1,16 @@
+D:\Pedro\PROJETOS C#\Projeto RPG\bin\Debug\net5.0\projeto.exe
+D:\Pedro\PROJETOS C#\Projeto RPG\bin\Debug\net5.0\projeto.deps.json
+D:\Pedro\PROJETOS C#\Projeto RPG\bin\Debug\net5.0\projeto.runtimeconfig.json
+D:\Pedro\PROJETOS C#\Projeto RPG\bin\Debug\net5.0\projeto.runtimeconfig.dev.json
+D:\Pedro\PROJETOS C#\Projeto RPG\bin\Debug\net5.0\projeto.dll
+D:\Pedro\PROJETOS C#\Projeto RPG\bin\Debug\net5.0\ref\projeto.dll
+D:\Pedro\PROJETOS C#\Projeto RPG\bin\Debug\net5.0\projeto.pdb
+D:\Pedro\PROJETOS C#\Projeto RPG\obj\Debug\net5.0\projeto.csproj.AssemblyReference.cache
+D:\Pedro\PROJETOS C#\Projeto RPG\obj\Debug\net5.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\PROJETOS C#\Projeto RPG\obj\Debug\net5.0\projeto.AssemblyInfoInputs.cache
+D:\Pedro\PROJETOS C#\Projeto RPG\obj\Debug\net5.0\projeto.AssemblyInfo.cs
+D:\Pedro\PROJETOS C#\Projeto RPG\obj\Debug\net5.0\projeto.csproj.CoreCompileInputs.cache
+D:\Pedro\PROJETOS C#\Projeto RPG\obj\Debug\net5.0\projeto.dll
+D:\Pedro\PROJETOS C#\Projeto RPG\obj\Debug\net5.0\ref\projeto.dll
+D:\Pedro\PROJETOS C#\Projeto RPG\obj\Debug\net5.0\projeto.pdb
+D:\Pedro\PROJETOS C#\Projeto RPG\obj\Debug\net5.0\projeto.genruntimeconfig.cache
