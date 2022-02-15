@@ -28,6 +28,22 @@ namespace Projeto_RPG.src.Entities
         {
             Life -= damage;
         }
+
+        public override bool Equals(object obj)
+        {
+            if(!(obj is Character))
+            {
+                return false;
+            }
+
+            Character other = obj as Character;
+            return Name.Equals(other.Name);
+        }
+
+        public override int GetHashCode()
+        {
+            return Name.GetHashCode();
+        }
         
         public override string ToString()
         {

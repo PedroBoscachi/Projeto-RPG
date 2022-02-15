@@ -34,5 +34,22 @@ namespace Projeto_RPG.src.Game
             CharactersList.Add(new Warrior("Patrias", 13, "Warrior", 100));
             CharactersList.Add(new Wizard("Patritia", 12, "Wizard", 60));
         }
+
+        public Character FindCharacter(string name){
+            foreach (Character c in CharactersList)
+            {
+                if(c.Name == name)
+                {
+                    return c;
+                }
+            }
+
+            throw new FormatException("Character not found");
+        }
+
+        public void DamageCharacter(Character c)
+        {
+            c.Life -= 8;
+        }
     }
 }
